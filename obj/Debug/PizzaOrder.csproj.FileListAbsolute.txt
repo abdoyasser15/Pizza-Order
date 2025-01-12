@@ -1,0 +1,11 @@
+H:\c# lvl 1\PizzaOrder\bin\Debug\PizzaOrder.exe.config
+H:\c# lvl 1\PizzaOrder\bin\Debug\PizzaOrder.exe
+H:\c# lvl 1\PizzaOrder\bin\Debug\PizzaOrder.pdb
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.csproj.AssemblyReference.cache
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.csproj.SuggestedBindingRedirects.cache
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.Form1.resources
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.Properties.Resources.resources
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.csproj.GenerateResource.cache
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.csproj.CoreCompileInputs.cache
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.exe
+H:\c# lvl 1\PizzaOrder\obj\Debug\PizzaOrder.pdb
